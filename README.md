@@ -8,6 +8,7 @@ de mi departamento, ni de mi centro, ni de nadie. Si alguien más se quiere
 unir a esta "loca" idea me lo puede comentar y... pa'dentro.
 
 Participantes para el 2019:
+
 | Profesor          | Isla     | Centro                                  |
 | ------------------ | -------- | --------------------------- |
 | David Vargas Ruiz | Tenerife | [IES Puerto de la Cruz - Telesforo Bravo](www.iespuertodelacruz.es) |
