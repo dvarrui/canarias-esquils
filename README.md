@@ -1,5 +1,5 @@
 
-# InternalSkills Informática Canarias
+# InternalSkills
 
 > **Descargo de responsabilidad**
 >
@@ -96,7 +96,7 @@ y el director nos debe permitir hacer esta ACTIVIDAD que podemos incluir en
 nuestra programación. Lógicamente si estamos trabajando en los "InternalSkills"
 no podemos estar haciendo otra cosa. ¿Verdad? Si lo hacemos en el tercer trimestre puede que nuestro centro nos deje usar las horas complementarias...
 * Estas competiciones dan visibilidad al centro y al departamento. Además
-que produce cierto efecto de gamificación la situación de competir y ver
+que produce cierto efecto de *gamificar* al competir y ver
 qué tal lo hacemos en comparación con otros compañeros.
 * También es muy interesante como profesor ver si nuestros alumnos tienen
 capacidades y/o habilidades de nivel similar al de otros centros... por lo menos
@@ -122,7 +122,15 @@ criterio del profesor diseñador.
 
 # Modalidades de competición
 
-Estas son:
+Originalmente había pensado en respetar la esencia SpainSkill:
+
+| Modalidad           | Edad  | Contenido       |
+| ------------------- | ------| --------------- |
+| Redes y Sistemas B  | 18-23 | Como SpainSkill |
+| Desarrollo Web   B  | 18-23 | Como SpainSkill |
+| Software Libre   B  | 18-23 | Como SpainSkill |
+
+Pero podría ser que se apuntarían otros centro con algo como:
 
 | Modalidad           | Edad  | Contenido       |
 | ------------------- | ------| --------------- |
@@ -148,8 +156,8 @@ la opción B... pero claro esto son los "InternalSkills".
 Los test projects están ahora mismo en fase de construcción.
 Estos son:
 
-| Modalidad        | Estado          | Profesor/es diseñador/es |
-| ---------------- | ----------------| ------------------------ |
-| Redes y Sistemas | En construcción | David Vargas Ruiz        |
-| Desarrollo Web   |                 |  |
-| Software Libre   |  |  |
+| Modalidad        | Estado                | Profesor/es diseñador/es |
+| ---------------- | ----------------------| ------------------------ |
+| Redes y Sistemas | En construcción       | David Vargas Ruiz        |
+| Desarrollo Web   | No hay nadie asignado |  |
+| Software Libre   | No hay nadie asignado |  |
