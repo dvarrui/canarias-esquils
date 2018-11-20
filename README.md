@@ -1,9 +1,9 @@
 
 # InternalSkills Informática Canarias
 
-**Descargo de responsabilidad**
-
-El responsable de toda esta propuesta es mía y no representa la postura
+> **Descargo de responsabilidad**
+>
+> El responsable de toda esta propuesta es mía y no representa la postura
 de mi departamento, ni de mi centro, ni de nadie. Si alguien más se quiere
 unir a esta *"loca"* idea me lo puede comentar y... *"pa'dentro"*.
 
