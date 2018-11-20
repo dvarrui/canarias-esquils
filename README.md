@@ -1,17 +1,20 @@
 
 # InternalSkills
 
+Contacto: <internalskills@protonmail.com>
+
 > **Descargo de responsabilidad**
 >
 > El responsable de toda esta propuesta es mía y no representa la postura
 de mi departamento, ni de mi centro, ni de nadie. Si alguien más se quiere
 unir a esta *"loca"* idea me lo puede comentar y... *"pa'dentro"*.
 
-Centros confirmado para participar para el 2019:
+Centros confirmados para participar para el 2019:
 
 | Profesor          | Isla     | Centro                                  |
 | ----------------- | -------- | --------------------------- |
 | David Vargas Ruiz | Tenerife | [IES Puerto de la Cruz - Telesforo Bravo](www.iespuertodelacruz.es) |
+
 
 ---
 
