@@ -129,7 +129,7 @@ Originalmente había pensado en **respetar la esencia SpainSkill**:
 
 | Código  | Modalidad           | Edad  | Contenido       |
 | ------- | ------------------- | ------| --------------- |
-| TP1-7   | Desarrollo Web   B  | 18-23 | Como SpainSkill |
+| TP-17   | Desarrollo Web   B  | 18-23 | Como SpainSkill |
 | TP-39   | Redes y Sistemas B  | 18-23 | Como SpainSkill |
 | TP-SS01 | Software Libre   B  | 18-23 | Como SpainSkill |
 
@@ -140,7 +140,7 @@ otros centro con algo como:
 | Código  | Modalidad           | Edad  | Contenido       |
 | ------- | ------------------- | ------| --------------- |
 |         | Desarrollo Web   A  | <18   | Como SpainSkill |
-| TP1-7   | Desarrollo Web   B  | 18-23 | Como SpainSkill |
+| TP-17   | Desarrollo Web   B  | 18-23 | Como SpainSkill |
 |         | Desarrollo Web   C  | >23   | Como SpainSkill |
 |         | Redes y Sistemas A  | <18   | Como SpainSkill |
 | TP-39   | Redes y Sistemas B  | 18-23 | Como SpainSkill |
@@ -163,6 +163,6 @@ Estos son:
 
 | Código  | Modalidad        | Estado                | Profesor/es diseñador/es |
 | ------- | ---------------- | ----------------------| ------------------------ |
-| TP1-7   | Desarrollo Web   | No hay nadie asignado | N/A |
+| TP-17   | Desarrollo Web   | No hay nadie asignado | N/A |
 | TP-39   | Redes y Sistemas | En construcción       | N/A |
 | TP-SS01 | Software Libre   | No hay nadie asignado | David Vargas Ruiz |
