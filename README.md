@@ -161,6 +161,6 @@ Estos son:
 
 | Modalidad        | Estado                | Profesor/es diseñador/es |
 | ---------------- | ----------------------| ------------------------ |
-| Redes y Sistemas | En construcción       | David Vargas Ruiz        |
-| Desarrollo Web   | No hay nadie asignado |  |
-| Software Libre   | No hay nadie asignado |  |
+| Redes y Sistemas | En construcción       | N/A |
+| Desarrollo Web   | No hay nadie asignado | N/A |
+| Software Libre   | No hay nadie asignado | David Vargas Ruiz |
