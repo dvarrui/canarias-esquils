@@ -125,27 +125,29 @@ criterio del profesor diseñador.
 
 # Modalidades de competición
 
-Originalmente había pensado en respetar la esencia SpainSkill:
+Originalmente había pensado en **respetar la esencia SpainSkill**:
 
-| Modalidad           | Edad  | Contenido       |
-| ------------------- | ------| --------------- |
-| Redes y Sistemas B  | 18-23 | Como SpainSkill |
-| Desarrollo Web   B  | 18-23 | Como SpainSkill |
-| Software Libre   B  | 18-23 | Como SpainSkill |
+| Código  | Modalidad           | Edad  | Contenido       |
+| ------- | ------------------- | ------| --------------- |
+| TP1-7   | Desarrollo Web   B  | 18-23 | Como SpainSkill |
+| TP-39   | Redes y Sistemas B  | 18-23 | Como SpainSkill |
+| TP-SS01 | Software Libre   B  | 18-23 | Como SpainSkill |
 
-Pero podría ser que se apuntarían otros centro con algo como:
+Hay una **propuesta de algunos compañeros para ampliar la competición** 
+a más rangos de edad. De esta forma podría ser que se apuntaran 
+otros centro con algo como:
 
-| Modalidad           | Edad  | Contenido       |
-| ------------------- | ------| --------------- |
-| Redes y Sistemas A  | <18   | Como SpainSkill |
-| Redes y Sistemas B  | 18-23 | Como SpainSkill |
-| Redes y Sistemas C  | >23   | Como SpainSkill |
-| Desarrollo Web   A  | <18   | Como SpainSkill |
-| Desarrollo Web   B  | 18-23 | Como SpainSkill |
-| Desarrollo Web   C  | >23   | Como SpainSkill |
-| Software Libre   A  | <18   | Como SpainSkill |
-| Software Libre   B  | 18-23 | Como SpainSkill |
-| Software Libre   C  | >23   | Como SpainSkill |
+| Código  | Modalidad           | Edad  | Contenido       |
+| ------- | ------------------- | ------| --------------- |
+|         | Desarrollo Web   A  | <18   | Como SpainSkill |
+| TP1-7   | Desarrollo Web   B  | 18-23 | Como SpainSkill |
+|         | Desarrollo Web   C  | >23   | Como SpainSkill |
+|         | Redes y Sistemas A  | <18   | Como SpainSkill |
+| TP-39   | Redes y Sistemas B  | 18-23 | Como SpainSkill |
+|         | Redes y Sistemas C  | >23   | Como SpainSkill |
+|         | Software Libre   A  | <18   | Como SpainSkill |
+| TP-SS01 | Software Libre   B  | 18-23 | Como SpainSkill |
+|         | Software Libre   C  | >23   | Como SpainSkill |
 
 Las pruebas A, B y C serán las mismas para todos. Excepto que
 tendremos "ganadores" en cada nivel de Edad (Ganador de A, de B y C).
@@ -159,8 +161,8 @@ la opción B... pero claro esto son los "InternalSkills".
 Los [test projects](./test-projects) están ahora mismo en fase de construcción.
 Estos son:
 
-| Modalidad        | Estado                | Profesor/es diseñador/es |
-| ---------------- | ----------------------| ------------------------ |
-| Redes y Sistemas | En construcción       | N/A |
-| Desarrollo Web   | No hay nadie asignado | N/A |
-| Software Libre   | No hay nadie asignado | David Vargas Ruiz |
+| Código  | Modalidad        | Estado                | Profesor/es diseñador/es |
+| ------- | ---------------- | ----------------------| ------------------------ |
+| TP1-7   | Desarrollo Web   | No hay nadie asignado | N/A |
+| TP-39   | Redes y Sistemas | En construcción       | N/A |
+| TP-SS01 | Software Libre   | No hay nadie asignado | David Vargas Ruiz |
