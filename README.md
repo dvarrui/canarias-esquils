@@ -163,6 +163,6 @@ Estos son:
 
 | Código  | Modalidad        | Estado                | Profesor/es diseñador/es |
 | ------- | ---------------- | ----------------------| ------------------------ |
-| TP-17   | Desarrollo Web   | No hay nadie asignado | N/A |
-| TP-39   | Redes y Sistemas | En construcción       | N/A |
-| [TP-SS01](./test-projects/ss01) | Software Libre   | No hay nadie asignado | David Vargas Ruiz |
+| TP-17   | Desarrollo Web   | N/A | N/A |
+| TP-39   | Redes y Sistemas | N/A      | N/A |
+| [TP-SS01](./test-projects/ss01) | Software Libre   | En construcción |David Vargas Ruiz |
