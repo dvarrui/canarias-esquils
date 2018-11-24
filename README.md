@@ -133,8 +133,8 @@ Originalmente había pensado en **respetar la esencia SpainSkill**:
 | TP-39   | Redes y Sistemas B  | 18-23 | Como SpainSkill |
 | TP-SS01 | Software Libre   B  | 18-23 | Como SpainSkill |
 
-Hay una **propuesta de algunos compañeros para ampliar la competición** 
-a más rangos de edad. De esta forma podría ser que se apuntaran 
+Hay una **propuesta de algunos compañeros para ampliar la competición**
+a más rangos de edad. De esta forma podría ser que se apuntaran
 otros centro con algo como:
 
 | Código  | Modalidad           | Edad  | Contenido       |
@@ -165,4 +165,4 @@ Estos son:
 | ------- | ---------------- | ----------------------| ------------------------ |
 | TP-17   | Desarrollo Web   | No hay nadie asignado | N/A |
 | TP-39   | Redes y Sistemas | En construcción       | N/A |
-| TP-SS01 | Software Libre   | No hay nadie asignado | David Vargas Ruiz |
+| [TP-SS01](./test-projects/ss01) | Software Libre   | No hay nadie asignado | David Vargas Ruiz |
